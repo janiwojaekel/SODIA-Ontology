@@ -21,7 +21,7 @@ For a detailed discussion on the development and application of the Structural D
 
 ## 👥 Authors
 - **Jan-Iwo Jäkel**
-- - **Eva Heinlein**
+- **Eva Heinlein**
 
 ## 📬 Contact
 📧 **Jan-Iwo Jäkel** – [jaekel@icom.rwth-aachen.de](mailto:jaekel@icom.rwth-aachen.de)
