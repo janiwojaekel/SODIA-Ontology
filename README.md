@@ -11,7 +11,7 @@ The primary objective of Sodia is to establish a standardized ontology that:
 
 ## 🔗 Access the Ontology
 The ontology is available at:  
-👉  
+👉  http://purl.org/sodia 
 
 ## 📖 Related Publication
 For a detailed discussion on the development and application of the Structural Diagnostics Ontology, refer to the corresponding publication:  
